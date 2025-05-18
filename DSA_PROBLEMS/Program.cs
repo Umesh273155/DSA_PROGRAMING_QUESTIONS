@@ -66,6 +66,7 @@
             //Practice34.Matrix_Rotation_90_Degree();
             //Practice35.Pascal_s_Triangle();
             //Practice36.Spiral_Matrix();
+
             //Practice36.Spiral_Matrix_ArrayPrinting();
             // Practice37.Prefix_Sum_2D_Array();
             // Recursion.PrintIncNumber(5);
